@@ -8,6 +8,8 @@ sites:
     url: https://www.phpmyfaq.de
   - name: phpMyFAQ API
     url: https://api.phpmyfaq.de/versions
+  - name: phpMyFAQ Demo
+    url: https://demo.phpmyfaq.de
   - name: Password Hash Generator Tool
     url: https://password.phpmyfaq.de
 
