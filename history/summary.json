@@ -16,6 +16,14 @@
     "time": 472
   },
   {
+    "name": "phpMyFAQ Demo",
+    "url": "https://demo.phpmyfaq.de",
+    "slug": "php-my-faq-demo",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 894
+  },
+  {
     "name": "Password Hash Generator Tool",
     "url": "https://password.phpmyfaq.de",
     "slug": "password-hash-generator-tool",
