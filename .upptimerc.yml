@@ -6,6 +6,12 @@ repo: status.phpmyfaq.de
 sites:
   - name: phpMyFAQ Homepage
     url: https://www.phpmyfaq.de
+  - name: phpMyFAQ API
+    url: https://api.phpmyfaq.de
+  - name: phpMyFAQ Downloads
+    url: https://download.phpmyfaq.de
+  - name: Password Hash Generator Tool
+    url: https://password.phpmyfaq.de
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -21,6 +27,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
