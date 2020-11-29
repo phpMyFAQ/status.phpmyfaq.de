@@ -16,14 +16,6 @@
     "time": 731
   },
   {
-    "name": "phpMyFAQ Downloads",
-    "url": "https://download.phpmyfaq.de",
-    "slug": "php-my-faq-downloads",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 1680
-  },
-  {
     "name": "Password Hash Generator Tool",
     "url": "https://password.phpmyfaq.de",
     "slug": "password-hash-generator-tool",
