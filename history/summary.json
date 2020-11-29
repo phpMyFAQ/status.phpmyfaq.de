@@ -5,7 +5,7 @@
     "slug": "php-my-faq-homepage",
     "status": "up",
     "uptime": "100.00%",
-    "time": 508
+    "time": 569
   },
   {
     "name": "phpMyFAQ API",
@@ -13,7 +13,7 @@
     "slug": "php-my-faq-api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 472
+    "time": 520
   },
   {
     "name": "phpMyFAQ Demo",
@@ -21,7 +21,7 @@
     "slug": "php-my-faq-demo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 894
+    "time": 756
   },
   {
     "name": "Password Hash Generator Tool",
@@ -29,6 +29,6 @@
     "slug": "password-hash-generator-tool",
     "status": "up",
     "uptime": "100.00%",
-    "time": 504
+    "time": 557
   }
 ]
