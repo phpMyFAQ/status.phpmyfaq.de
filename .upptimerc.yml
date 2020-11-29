@@ -15,7 +15,7 @@ sites:
 
 status-website:
   cname: status.phpmyfaq.de
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.phpmyfaq.de/images/logo.png
   name: phpMyFAQ Status
   introTitle: "**phpMyFAQ** status"
   introMessage: Status of phpMyFAQ servicess
