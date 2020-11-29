@@ -1,0 +1,26 @@
+[
+  {
+    "name": "phpMyFAQ Homepage",
+    "url": "https://www.phpmyfaq.de",
+    "slug": "php-my-faq-homepage",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 508
+  },
+  {
+    "name": "phpMyFAQ API",
+    "url": "https://api.phpmyfaq.de/versions",
+    "slug": "php-my-faq-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 472
+  },
+  {
+    "name": "Password Hash Generator Tool",
+    "url": "https://password.phpmyfaq.de",
+    "slug": "password-hash-generator-tool",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 504
+  }
+]
