@@ -3,16 +3,16 @@
     "name": "phpMyFAQ Homepage",
     "url": "https://www.phpmyfaq.de",
     "slug": "php-my-faq-homepage",
-    "status": "up",
-    "uptime": "96.45%",
-    "time": 692
+    "status": "down",
+    "uptime": "98.39%",
+    "time": 615
   },
   {
     "name": "phpMyFAQ API",
     "url": "https://api.phpmyfaq.de/versions",
     "slug": "php-my-faq-api",
     "status": "up",
-    "uptime": "96.50%",
+    "uptime": "98.45%",
     "time": 532
   },
   {
@@ -20,7 +20,7 @@
     "url": "https://demo.phpmyfaq.de",
     "slug": "php-my-faq-demo",
     "status": "up",
-    "uptime": "96.38%",
+    "uptime": "98.44%",
     "time": 602
   },
   {
@@ -28,7 +28,7 @@
     "url": "https://password.phpmyfaq.de",
     "slug": "php-my-faq-password-hash-generator-tool",
     "status": "up",
-    "uptime": "95.88%",
+    "uptime": "98.37%",
     "time": 543
   }
 ]
