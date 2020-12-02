@@ -4,31 +4,31 @@
     "url": "https://www.phpmyfaq.de",
     "slug": "php-my-faq-homepage",
     "status": "up",
-    "uptime": "98.67%",
-    "time": 686
+    "uptime": "99.01%",
+    "time": 720
   },
   {
     "name": "phpMyFAQ API",
     "url": "https://api.phpmyfaq.de/versions",
     "slug": "php-my-faq-api",
     "status": "up",
-    "uptime": "98.28%",
-    "time": 528
+    "uptime": "98.72%",
+    "time": 559
   },
   {
     "name": "phpMyFAQ Demo",
     "url": "https://demo.phpmyfaq.de",
     "slug": "php-my-faq-demo",
     "status": "up",
-    "uptime": "98.29%",
-    "time": 581
+    "uptime": "98.73%",
+    "time": 613
   },
   {
     "name": "phpMyFAQ Password Hash Generator Tool",
     "url": "https://password.phpmyfaq.de",
     "slug": "php-my-faq-password-hash-generator-tool",
     "status": "up",
-    "uptime": "98.84%",
-    "time": 586
+    "uptime": "99.15%",
+    "time": 664
   }
 ]
