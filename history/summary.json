@@ -4,10 +4,10 @@
     "url": "https://www.phpmyfaq.de",
     "icon": "https://favicons.githubusercontent.com/www.phpmyfaq.de",
     "slug": "php-my-faq-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "99.48%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.47%",
     "uptimeMonth": "98.66%",
     "uptimeYear": "99.67%",
     "time": 931,
@@ -16,7 +16,7 @@
     "timeMonth": 1067,
     "timeYear": 931,
     "dailyMinutesDown": {
-      "2021-08-25": 11,
+      "2021-08-25": 12,
       "2021-08-24": 21,
       "2021-08-23": 20,
       "2021-08-17": 45,
@@ -44,7 +44,7 @@
       "2021-07-07": 68,
       "2021-07-06": 129,
       "2021-07-05": 5,
-      "2021-07-04": 13
+      "2021-07-04": 5
     }
   },
   {
@@ -52,10 +52,10 @@
     "url": "https://api.phpmyfaq.de/versions",
     "icon": "https://favicons.githubusercontent.com/api.phpmyfaq.de",
     "slug": "php-my-faq-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.71%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.70%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "99.69%",
     "time": 777,
@@ -64,6 +64,7 @@
     "timeMonth": 844,
     "timeYear": 777,
     "dailyMinutesDown": {
+      "2021-08-25": 1,
       "2021-08-24": 11,
       "2021-08-23": 19,
       "2021-08-17": 32,
@@ -91,7 +92,7 @@
       "2021-07-07": 66,
       "2021-07-06": 125,
       "2021-07-04": 82,
-      "2021-07-03": 14
+      "2021-07-03": 9
     }
   },
   {
@@ -146,9 +147,9 @@
     "url": "https://password.phpmyfaq.de",
     "icon": "https://favicons.githubusercontent.com/password.phpmyfaq.de",
     "slug": "php-my-faq-password-hash-generator-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.11%",
     "uptimeYear": "99.72%",
@@ -158,6 +159,7 @@
     "timeMonth": 815,
     "timeYear": 753,
     "dailyMinutesDown": {
+      "2021-08-25": 0,
       "2021-08-24": 4,
       "2021-08-23": 16,
       "2021-08-16": 73,
@@ -184,7 +186,7 @@
       "2021-07-07": 59,
       "2021-07-06": 111,
       "2021-07-05": 5,
-      "2021-07-04": 36
+      "2021-07-04": 32
     }
   }
 ]
