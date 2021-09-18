@@ -44,19 +44,19 @@
     "url": "https://api.phpmyfaq.de/versions",
     "icon": "https://favicons.githubusercontent.com/api.phpmyfaq.de",
     "slug": "php-my-faq-api",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "98.10%",
-    "uptimeYear": "99.77%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "97.50%",
+    "uptimeMonth": "98.09%",
+    "uptimeYear": "99.78%",
     "time": 782,
     "timeDay": 747,
     "timeWeek": 832,
     "timeMonth": 806,
     "timeYear": 782,
     "dailyMinutesDown": {
-      "2021-09-18": 10,
+      "2021-09-18": 11,
       "2021-09-17": 15,
       "2021-09-16": 77,
       "2021-09-15": 54,
@@ -77,8 +77,7 @@
       "2021-08-24": 11,
       "2021-08-23": 19,
       "2021-08-17": 32,
-      "2021-08-16": 83,
-      "2021-08-15": 5
+      "2021-08-16": 83
     }
   },
   {
@@ -86,10 +85,10 @@
     "url": "https://demo.phpmyfaq.de",
     "icon": "https://favicons.githubusercontent.com/demo.phpmyfaq.de",
     "slug": "php-my-faq-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "97.42%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "97.41%",
     "uptimeMonth": "98.17%",
     "uptimeYear": "99.78%",
     "time": 778,
@@ -98,6 +97,7 @@
     "timeMonth": 817,
     "timeYear": 778,
     "dailyMinutesDown": {
+      "2021-09-18": 1,
       "2021-09-17": 21,
       "2021-09-16": 77,
       "2021-09-15": 59,
@@ -119,7 +119,7 @@
       "2021-08-23": 17,
       "2021-08-17": 11,
       "2021-08-16": 78,
-      "2021-08-15": 29
+      "2021-08-15": 24
     }
   },
   {
@@ -127,9 +127,9 @@
     "url": "https://password.phpmyfaq.de",
     "icon": "https://favicons.githubusercontent.com/password.phpmyfaq.de",
     "slug": "php-my-faq-password-hash-generator-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "99.40%",
+    "uptimeDay": "99.38%",
     "uptimeWeek": "97.30%",
     "uptimeMonth": "98.24%",
     "uptimeYear": "99.79%",
@@ -159,7 +159,7 @@
       "2021-08-24": 4,
       "2021-08-23": 16,
       "2021-08-16": 73,
-      "2021-08-15": 26
+      "2021-08-15": 22
     }
   }
 ]
