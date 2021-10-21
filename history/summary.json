@@ -121,12 +121,12 @@
     "url": "https://password.phpmyfaq.de",
     "icon": "https://favicons.githubusercontent.com/password.phpmyfaq.de",
     "slug": "php-my-faq-password-hash-generator-tool",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "96.43%",
-    "uptimeMonth": "97.88%",
-    "uptimeYear": "99.80%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "96.42%",
+    "uptimeMonth": "97.92%",
+    "uptimeYear": "99.81%",
     "time": 743,
     "timeDay": 642,
     "timeWeek": 704,
@@ -152,7 +152,7 @@
       "2021-10-01": 50,
       "2021-09-30": 15,
       "2021-09-29": 25,
-      "2021-09-28": 58
+      "2021-09-28": 40
     }
   }
 ]
