@@ -4,19 +4,19 @@
     "url": "https://www.phpmyfaq.de",
     "icon": "https://favicons.githubusercontent.com/www.phpmyfaq.de",
     "slug": "php-my-faq-homepage",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "96.27%",
-    "uptimeMonth": "97.48%",
-    "uptimeYear": "99.76%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "96.25%",
+    "uptimeMonth": "97.52%",
+    "uptimeYear": "99.77%",
     "time": 919,
     "timeDay": 833,
     "timeWeek": 931,
-    "timeMonth": 893,
+    "timeMonth": 892,
     "timeYear": 919,
     "dailyMinutesDown": {
-      "2021-10-21": 21,
+      "2021-10-21": 23,
       "2021-10-20": 19,
       "2021-10-19": 60,
       "2021-10-18": 50,
@@ -35,7 +35,7 @@
       "2021-10-01": 78,
       "2021-09-30": 17,
       "2021-09-29": 29,
-      "2021-09-28": 69
+      "2021-09-28": 50
     }
   },
   {
@@ -43,19 +43,19 @@
     "url": "https://api.phpmyfaq.de/versions",
     "icon": "https://favicons.githubusercontent.com/api.phpmyfaq.de",
     "slug": "php-my-faq-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "96.44%",
-    "uptimeMonth": "97.67%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "96.43%",
+    "uptimeMonth": "97.68%",
     "uptimeYear": "99.78%",
     "time": 770,
     "timeDay": 711,
     "timeWeek": 743,
-    "timeMonth": 727,
+    "timeMonth": 726,
     "timeYear": 770,
     "dailyMinutesDown": {
-      "2021-10-21": 25,
+      "2021-10-21": 26,
       "2021-10-20": 7,
       "2021-10-19": 55,
       "2021-10-18": 48,
@@ -74,7 +74,7 @@
       "2021-10-01": 38,
       "2021-09-30": 16,
       "2021-09-29": 14,
-      "2021-09-28": 92
+      "2021-09-28": 87
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://demo.phpmyfaq.de",
     "icon": "https://favicons.githubusercontent.com/demo.phpmyfaq.de",
     "slug": "php-my-faq-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "96.83%",
-    "uptimeMonth": "97.75%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "97.76%",
     "uptimeYear": "99.79%",
     "time": 765,
     "timeDay": 927,
     "timeWeek": 781,
-    "timeMonth": 719,
+    "timeMonth": 718,
     "timeYear": 765,
     "dailyMinutesDown": {
-      "2021-10-21": 8,
+      "2021-10-21": 9,
       "2021-10-20": 7,
       "2021-10-19": 48,
       "2021-10-18": 46,
@@ -113,7 +113,7 @@
       "2021-10-01": 55,
       "2021-09-30": 16,
       "2021-09-29": 13,
-      "2021-09-28": 86
+      "2021-09-28": 82
     }
   },
   {
@@ -121,16 +121,16 @@
     "url": "https://password.phpmyfaq.de",
     "icon": "https://favicons.githubusercontent.com/password.phpmyfaq.de",
     "slug": "php-my-faq-password-hash-generator-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "96.07%",
+    "uptimeDay": "96.05%",
     "uptimeWeek": "96.39%",
-    "uptimeMonth": "97.85%",
+    "uptimeMonth": "97.86%",
     "uptimeYear": "99.80%",
     "time": 752,
     "timeDay": 1887,
     "timeWeek": 869,
-    "timeMonth": 750,
+    "timeMonth": 751,
     "timeYear": 752,
     "dailyMinutesDown": {
       "2021-10-21": 51,
@@ -152,7 +152,7 @@
       "2021-10-01": 50,
       "2021-09-30": 15,
       "2021-09-29": 25,
-      "2021-09-28": 29
+      "2021-09-28": 25
     }
   }
 ]
