@@ -6,17 +6,17 @@
     "slug": "php-my-faq-homepage",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "96.36%",
-    "uptimeWeek": "98.37%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "98.49%",
     "uptimeMonth": "97.36%",
     "uptimeYear": "99.77%",
     "time": 917,
-    "timeDay": 924,
-    "timeWeek": 903,
-    "timeMonth": 900,
+    "timeDay": 887,
+    "timeWeek": 892,
+    "timeMonth": 898,
     "timeYear": 917,
     "dailyMinutesDown": {
-      "2021-11-09": 53,
+      "2021-11-09": 41,
       "2021-11-08": 43,
       "2021-11-07": 18,
       "2021-11-05": 50,
@@ -34,7 +34,7 @@
       "2021-10-15": 71,
       "2021-10-14": 64,
       "2021-10-13": 28,
-      "2021-10-12": 6
+      "2021-10-12": 17
     }
   },
   {
@@ -44,17 +44,17 @@
     "slug": "php-my-faq-api",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "96.46%",
-    "uptimeWeek": "98.41%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "98.52%",
     "uptimeMonth": "97.46%",
     "uptimeYear": "99.78%",
     "time": 765,
-    "timeDay": 762,
-    "timeWeek": 723,
-    "timeMonth": 735,
+    "timeDay": 730,
+    "timeWeek": 718,
+    "timeMonth": 734,
     "timeYear": 765,
     "dailyMinutesDown": {
-      "2021-11-09": 50,
+      "2021-11-09": 39,
       "2021-11-08": 43,
       "2021-11-07": 17,
       "2021-11-05": 50,
@@ -73,7 +73,7 @@
       "2021-10-15": 67,
       "2021-10-14": 66,
       "2021-10-13": 27,
-      "2021-10-12": 16
+      "2021-10-12": 28
     }
   },
   {
@@ -83,17 +83,17 @@
     "slug": "php-my-faq-demo",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "96.56%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "97.54%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "97.53%",
     "uptimeYear": "99.78%",
     "time": 756,
-    "timeDay": 736,
-    "timeWeek": 701,
-    "timeMonth": 716,
+    "timeDay": 704,
+    "timeWeek": 691,
+    "timeMonth": 714,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2021-11-09": 50,
+      "2021-11-09": 39,
       "2021-11-08": 42,
       "2021-11-07": 17,
       "2021-11-05": 48,
@@ -113,7 +113,7 @@
       "2021-10-15": 66,
       "2021-10-14": 65,
       "2021-10-13": 24,
-      "2021-10-12": 31
+      "2021-10-12": 45
     }
   },
   {
@@ -123,17 +123,17 @@
     "slug": "php-my-faq-password-hash-generator-tool",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "96.66%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "97.65%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "97.66%",
     "uptimeYear": "99.79%",
     "time": 747,
-    "timeDay": 724,
-    "timeWeek": 719,
-    "timeMonth": 743,
+    "timeDay": 709,
+    "timeWeek": 709,
+    "timeMonth": 741,
     "timeYear": 747,
     "dailyMinutesDown": {
-      "2021-11-09": 47,
+      "2021-11-09": 37,
       "2021-11-08": 42,
       "2021-11-07": 16,
       "2021-11-05": 48,
@@ -153,7 +153,8 @@
       "2021-10-16": 123,
       "2021-10-15": 62,
       "2021-10-14": 46,
-      "2021-10-13": 23
+      "2021-10-13": 23,
+      "2021-10-12": 4
     }
   }
 ]
