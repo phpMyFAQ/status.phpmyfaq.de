@@ -11,9 +11,9 @@
     "uptimeMonth": "97.28%",
     "uptimeYear": "99.76%",
     "time": 916,
-    "timeDay": 826,
-    "timeWeek": 869,
-    "timeMonth": 895,
+    "timeDay": 845,
+    "timeWeek": 871,
+    "timeMonth": 896,
     "timeYear": 916,
     "dailyMinutesDown": {
       "2021-11-11": 73,
@@ -48,11 +48,11 @@
     "uptimeWeek": "97.83%",
     "uptimeMonth": "97.38%",
     "uptimeYear": "99.77%",
-    "time": 764,
-    "timeDay": 672,
-    "timeWeek": 699,
-    "timeMonth": 730,
-    "timeYear": 764,
+    "time": 763,
+    "timeDay": 685,
+    "timeWeek": 702,
+    "timeMonth": 731,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2021-11-11": 69,
       "2021-11-09": 39,
@@ -83,17 +83,17 @@
     "slug": "php-my-faq-demo",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "96.33%",
-    "uptimeWeek": "98.03%",
-    "uptimeMonth": "97.48%",
+    "uptimeDay": "97.35%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "97.49%",
     "uptimeYear": "99.78%",
     "time": 755,
-    "timeDay": 662,
-    "timeWeek": 679,
-    "timeMonth": 712,
+    "timeDay": 675,
+    "timeWeek": 680,
+    "timeMonth": 713,
     "timeYear": 755,
     "dailyMinutesDown": {
-      "2021-11-11": 54,
+      "2021-11-11": 39,
       "2021-11-09": 39,
       "2021-11-08": 42,
       "2021-11-07": 17,
@@ -114,7 +114,7 @@
       "2021-10-15": 66,
       "2021-10-14": 65,
       "2021-10-13": 24,
-      "2021-10-12": 15
+      "2021-10-12": 27
     }
   },
   {
@@ -124,17 +124,17 @@
     "slug": "php-my-faq-password-hash-generator-tool",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "96.44%",
-    "uptimeWeek": "98.07%",
-    "uptimeMonth": "97.59%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "97.60%",
     "uptimeYear": "99.79%",
     "time": 745,
-    "timeDay": 639,
-    "timeWeek": 688,
-    "timeMonth": 738,
+    "timeDay": 653,
+    "timeWeek": 691,
+    "timeMonth": 739,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2021-11-11": 51,
+      "2021-11-11": 37,
       "2021-11-09": 37,
       "2021-11-08": 42,
       "2021-11-07": 16,
@@ -155,7 +155,7 @@
       "2021-10-16": 123,
       "2021-10-15": 62,
       "2021-10-14": 46,
-      "2021-10-13": 8
+      "2021-10-13": 17
     }
   }
 ]
