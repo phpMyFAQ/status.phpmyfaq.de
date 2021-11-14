@@ -6,17 +6,16 @@
     "slug": "php-my-faq-homepage",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "97.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "97.30%",
     "uptimeYear": "99.76%",
     "time": 916,
     "timeDay": 1040,
-    "timeWeek": 874,
+    "timeWeek": 880,
     "timeMonth": 902,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2021-11-13": 8,
       "2021-11-11": 73,
       "2021-11-09": 41,
       "2021-11-08": 43,
@@ -35,7 +34,7 @@
       "2021-10-16": 142,
       "2021-10-15": 71,
       "2021-10-14": 64,
-      "2021-10-13": 5
+      "2021-10-13": 10
     }
   },
   {
@@ -45,17 +44,16 @@
     "slug": "php-my-faq-api",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "98.25%",
-    "uptimeMonth": "97.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "97.43%",
     "uptimeYear": "99.77%",
     "time": 764,
     "timeDay": 831,
-    "timeWeek": 704,
+    "timeWeek": 708,
     "timeMonth": 730,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2021-11-13": 7,
       "2021-11-11": 69,
       "2021-11-09": 39,
       "2021-11-08": 43,
@@ -75,7 +73,7 @@
       "2021-10-16": 137,
       "2021-10-15": 67,
       "2021-10-14": 66,
-      "2021-10-13": 10
+      "2021-10-13": 20
     }
   },
   {
@@ -91,7 +89,7 @@
     "uptimeYear": "99.78%",
     "time": 758,
     "timeDay": 3831,
-    "timeWeek": 762,
+    "timeWeek": 769,
     "timeMonth": 732,
     "timeYear": 758,
     "dailyMinutesDown": {
@@ -132,7 +130,7 @@
     "uptimeYear": "99.79%",
     "time": 745,
     "timeDay": 406,
-    "timeWeek": 688,
+    "timeWeek": 694,
     "timeMonth": 745,
     "timeYear": 745,
     "dailyMinutesDown": {
