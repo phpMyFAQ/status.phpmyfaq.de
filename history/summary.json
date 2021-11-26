@@ -12,7 +12,7 @@
     "uptimeYear": "99.76%",
     "time": 913,
     "timeDay": 716,
-    "timeWeek": 894,
+    "timeWeek": 888,
     "timeMonth": 878,
     "timeYear": 913,
     "dailyMinutesDown": {
@@ -52,7 +52,7 @@
     "uptimeYear": "99.77%",
     "time": 760,
     "timeDay": 675,
-    "timeWeek": 672,
+    "timeWeek": 660,
     "timeMonth": 706,
     "timeYear": 760,
     "dailyMinutesDown": {
@@ -86,17 +86,16 @@
     "slug": "php-my-faq-demo",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "98.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "98.88%",
     "uptimeYear": "99.79%",
     "time": 754,
     "timeDay": 483,
-    "timeWeek": 644,
+    "timeWeek": 635,
     "timeMonth": 699,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2021-11-25": 8,
       "2021-11-23": 23,
       "2021-11-18": 15,
       "2021-11-11": 39,
@@ -119,7 +118,8 @@
       "2021-10-16": 128,
       "2021-10-15": 66,
       "2021-10-14": 65,
-      "2021-10-13": 24
+      "2021-10-13": 24,
+      "2021-10-12": 5
     }
   },
   {
@@ -128,18 +128,17 @@
     "icon": "https://favicons.githubusercontent.com/password.phpmyfaq.de",
     "slug": "php-my-faq-password-hash-generator-tool",
     "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "99.79%",
+    "uptime": "99.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "99.80%",
     "time": 741,
     "timeDay": 477,
-    "timeWeek": 644,
+    "timeWeek": 642,
     "timeMonth": 678,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2021-11-25": 8,
       "2021-11-23": 23,
       "2021-11-11": 37,
       "2021-11-09": 37,
@@ -162,7 +161,7 @@
       "2021-10-16": 123,
       "2021-10-15": 62,
       "2021-10-14": 46,
-      "2021-10-13": 4
+      "2021-10-13": 8
     }
   }
 ]
