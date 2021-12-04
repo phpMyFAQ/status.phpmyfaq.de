@@ -4,18 +4,19 @@
     "url": "https://www.phpmyfaq.de",
     "icon": "https://favicons.githubusercontent.com/www.phpmyfaq.de",
     "slug": "php-my-faq-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "99.77%",
     "time": 913,
-    "timeDay": 1024,
-    "timeWeek": 825,
+    "timeDay": 1044,
+    "timeWeek": 881,
     "timeMonth": 867,
     "timeYear": 912,
     "dailyMinutesDown": {
+      "2021-12-04": 1,
       "2021-11-23": 40,
       "2021-11-19": 20,
       "2021-11-18": 16,
@@ -36,7 +37,7 @@
       "2021-10-18": 50,
       "2021-10-16": 142,
       "2021-10-15": 71,
-      "2021-10-14": 32
+      "2021-10-14": 13
     }
   },
   {
@@ -44,18 +45,19 @@
     "url": "https://api.phpmyfaq.de/versions",
     "icon": "https://favicons.githubusercontent.com/api.phpmyfaq.de",
     "slug": "php-my-faq-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.78%",
     "time": 759,
-    "timeDay": 700,
-    "timeWeek": 660,
-    "timeMonth": 692,
+    "timeDay": 704,
+    "timeWeek": 679,
+    "timeMonth": 690,
     "timeYear": 759,
     "dailyMinutesDown": {
+      "2021-12-04": 0,
       "2021-11-23": 39,
       "2021-11-18": 16,
       "2021-11-11": 69,
@@ -76,7 +78,7 @@
       "2021-10-17": 6,
       "2021-10-16": 137,
       "2021-10-15": 67,
-      "2021-10-14": 66
+      "2021-10-14": 51
     }
   },
   {
@@ -91,8 +93,8 @@
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.79%",
     "time": 754,
-    "timeDay": 736,
-    "timeWeek": 760,
+    "timeDay": 706,
+    "timeWeek": 660,
     "timeMonth": 706,
     "timeYear": 753,
     "dailyMinutesDown": {
@@ -134,9 +136,9 @@
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.80%",
     "time": 740,
-    "timeDay": 711,
-    "timeWeek": 621,
-    "timeMonth": 667,
+    "timeDay": 698,
+    "timeWeek": 642,
+    "timeMonth": 665,
     "timeYear": 740,
     "dailyMinutesDown": {
       "2021-11-23": 23,
