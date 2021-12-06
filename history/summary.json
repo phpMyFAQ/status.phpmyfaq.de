@@ -4,18 +4,19 @@
     "url": "https://www.phpmyfaq.de",
     "icon": "https://favicons.githubusercontent.com/www.phpmyfaq.de",
     "slug": "php-my-faq-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.28%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.27%",
     "uptimeYear": "99.76%",
     "time": 912,
     "timeDay": 625,
     "timeWeek": 789,
     "timeMonth": 852,
-    "timeYear": 912,
+    "timeYear": 911,
     "dailyMinutesDown": {
+      "2021-12-06": 1,
       "2021-12-04": 69,
       "2021-11-23": 40,
       "2021-11-19": 20,
@@ -36,8 +37,7 @@
       "2021-10-19": 60,
       "2021-10-18": 50,
       "2021-10-16": 142,
-      "2021-10-15": 71,
-      "2021-10-14": 13
+      "2021-10-15": 71
     }
   },
   {
@@ -86,10 +86,10 @@
     "url": "https://demo.phpmyfaq.de",
     "icon": "https://favicons.githubusercontent.com/demo.phpmyfaq.de",
     "slug": "php-my-faq-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.79%",
     "time": 753,
@@ -98,6 +98,7 @@
     "timeMonth": 698,
     "timeYear": 753,
     "dailyMinutesDown": {
+      "2021-12-06": 1,
       "2021-11-23": 23,
       "2021-11-18": 15,
       "2021-11-11": 39,
@@ -120,8 +121,7 @@
       "2021-10-16": 128,
       "2021-10-15": 66,
       "2021-10-14": 65,
-      "2021-10-13": 24,
-      "2021-10-12": 5
+      "2021-10-13": 24
     }
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://password.phpmyfaq.de",
     "icon": "https://favicons.githubusercontent.com/password.phpmyfaq.de",
     "slug": "php-my-faq-password-hash-generator-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.80%",
@@ -141,6 +141,7 @@
     "timeMonth": 655,
     "timeYear": 739,
     "dailyMinutesDown": {
+      "2021-12-06": 0,
       "2021-11-23": 23,
       "2021-11-11": 37,
       "2021-11-09": 37,
@@ -163,7 +164,7 @@
       "2021-10-16": 123,
       "2021-10-15": 62,
       "2021-10-14": 46,
-      "2021-10-13": 8
+      "2021-10-13": 4
     }
   }
 ]
