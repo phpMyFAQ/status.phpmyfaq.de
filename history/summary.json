@@ -5,10 +5,10 @@
     "icon": "https://favicons.githubusercontent.com/www.phpmyfaq.de",
     "slug": "php-my-faq-homepage",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.77%",
+    "uptime": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.75%",
     "time": 913,
     "timeDay": 894,
@@ -16,7 +16,6 @@
     "timeMonth": 921,
     "timeYear": 915,
     "dailyMinutesDown": {
-      "2022-01-04": 8,
       "2021-12-17": 20,
       "2021-12-14": 28,
       "2021-12-13": 24,
@@ -41,7 +40,7 @@
       "2021-10-19": 60,
       "2021-10-18": 50,
       "2021-10-16": 142,
-      "2021-10-15": 6
+      "2021-10-15": 19
     }
   },
   {
@@ -51,9 +50,9 @@
     "slug": "php-my-faq-api",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.76%",
     "time": 758,
     "timeDay": 695,
@@ -61,7 +60,6 @@
     "timeMonth": 746,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2022-01-04": 8,
       "2021-12-17": 20,
       "2021-12-14": 28,
       "2021-12-13": 24,
@@ -86,7 +84,7 @@
       "2021-10-18": 48,
       "2021-10-17": 6,
       "2021-10-16": 137,
-      "2021-10-15": 49
+      "2021-10-15": 67
     }
   },
   {
@@ -142,9 +140,9 @@
     "slug": "php-my-faq-password-hash-generator-tool",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.79%",
     "time": 737,
     "timeDay": 613,
@@ -152,7 +150,6 @@
     "timeMonth": 692,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2022-01-04": 7,
       "2021-12-17": 19,
       "2021-12-14": 28,
       "2021-12-13": 22,
@@ -178,7 +175,7 @@
       "2021-10-17": 5,
       "2021-10-16": 123,
       "2021-10-15": 62,
-      "2021-10-14": 11
+      "2021-10-14": 28
     }
   }
 ]
