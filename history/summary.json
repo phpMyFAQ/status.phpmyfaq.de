@@ -100,10 +100,10 @@
     "url": "https://demo.phpmyfaq.de",
     "icon": "https://favicons.githubusercontent.com/demo.phpmyfaq.de",
     "slug": "php-my-faq-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.11%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.10%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.76%",
     "time": 742,
@@ -141,7 +141,7 @@
       "2021-10-18": 46,
       "2021-10-17": 5,
       "2021-10-16": 128,
-      "2021-10-15": 29
+      "2021-10-15": 17
     }
   },
   {
