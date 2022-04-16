@@ -13,7 +13,7 @@
     "time": 907,
     "timeDay": 936,
     "timeWeek": 830,
-    "timeMonth": 960,
+    "timeMonth": 967,
     "timeYear": 910,
     "dailyMinutesDown": {
       "2022-04-15": 85,
@@ -64,12 +64,12 @@
     "uptime": "99.72%",
     "uptimeDay": "94.21%",
     "uptimeWeek": "99.17%",
-    "uptimeMonth": "98.40%",
+    "uptimeMonth": "98.46%",
     "uptimeYear": "99.62%",
     "time": 751,
     "timeDay": 741,
     "timeWeek": 681,
-    "timeMonth": 736,
+    "timeMonth": 739,
     "timeYear": 749,
     "dailyMinutesDown": {
       "2022-04-15": 83,
@@ -117,18 +117,19 @@
     "url": "https://demo.phpmyfaq.de",
     "icon": "https://favicons.githubusercontent.com/demo.phpmyfaq.de",
     "slug": "php-my-faq-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "94.28%",
+    "uptimeDay": "94.25%",
     "uptimeWeek": "99.18%",
     "uptimeMonth": "98.81%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 750,
     "timeDay": 706,
     "timeWeek": 652,
-    "timeMonth": 851,
+    "timeMonth": 856,
     "timeYear": 746,
     "dailyMinutesDown": {
+      "2022-04-16": 0,
       "2022-04-15": 83,
       "2022-03-28": 31,
       "2022-03-27": 56,
@@ -166,7 +167,7 @@
       "2021-10-22": 59,
       "2021-10-21": 89,
       "2021-10-20": 7,
-      "2021-10-19": 15
+      "2021-10-19": 5
     }
   },
   {
@@ -183,7 +184,7 @@
     "time": 740,
     "timeDay": 749,
     "timeWeek": 671,
-    "timeMonth": 683,
+    "timeMonth": 685,
     "timeYear": 738,
     "dailyMinutesDown": {
       "2022-04-15": 81,
