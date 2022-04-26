@@ -61,19 +61,19 @@
     "url": "https://api.phpmyfaq.de/versions",
     "icon": "https://favicons.githubusercontent.com/api.phpmyfaq.de",
     "slug": "php-my-faq-api",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "96.93%",
-    "uptimeWeek": "99.56%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.43%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.62%",
     "time": 749,
     "timeDay": 639,
     "timeWeek": 639,
     "timeMonth": 706,
     "timeYear": 747,
     "dailyMinutesDown": {
-      "2022-04-26": 44,
+      "2022-04-26": 45,
       "2022-04-15": 83,
       "2022-03-31": 16,
       "2022-03-28": 48,
@@ -110,7 +110,7 @@
       "2021-10-26": 87,
       "2021-10-25": 78,
       "2021-10-23": 11,
-      "2021-10-22": 60
+      "2021-10-22": 44
     }
   },
   {
@@ -118,18 +118,19 @@
     "url": "https://demo.phpmyfaq.de",
     "icon": "https://favicons.githubusercontent.com/demo.phpmyfaq.de",
     "slug": "php-my-faq-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 749,
     "timeDay": 617,
     "timeWeek": 651,
     "timeMonth": 687,
     "timeYear": 745,
     "dailyMinutesDown": {
+      "2022-04-26": 1,
       "2022-04-15": 83,
       "2022-03-28": 31,
       "2022-03-27": 56,
@@ -167,7 +168,7 @@
       "2021-10-22": 59,
       "2021-10-21": 89,
       "2021-10-20": 7,
-      "2021-10-19": 15
+      "2021-10-19": 5
     }
   },
   {
@@ -175,18 +176,19 @@
     "url": "https://password.phpmyfaq.de",
     "icon": "https://favicons.githubusercontent.com/password.phpmyfaq.de",
     "slug": "php-my-faq-password-hash-generator-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "99.68%",
+    "uptimeYear": "99.69%",
     "time": 738,
     "timeDay": 571,
     "timeWeek": 610,
     "timeMonth": 683,
     "timeYear": 737,
     "dailyMinutesDown": {
+      "2022-04-26": 1,
       "2022-04-15": 81,
       "2022-03-30": 29,
       "2022-03-28": 30,
@@ -225,7 +227,7 @@
       "2021-10-22": 52,
       "2021-10-21": 127,
       "2021-10-20": 6,
-      "2021-10-19": 31
+      "2021-10-19": 25
     }
   }
 ]
