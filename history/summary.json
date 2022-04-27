@@ -11,9 +11,9 @@
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.63%",
     "time": 906,
-    "timeDay": 813,
-    "timeWeek": 819,
-    "timeMonth": 864,
+    "timeDay": 830,
+    "timeWeek": 793,
+    "timeMonth": 860,
     "timeYear": 909,
     "dailyMinutesDown": {
       "2022-04-26": 45,
@@ -62,18 +62,18 @@
     "icon": "https://favicons.githubusercontent.com/api.phpmyfaq.de",
     "slug": "php-my-faq-api",
     "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "96.56%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.42%",
+    "uptime": "99.72%",
+    "uptimeDay": "96.93%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "99.61%",
-    "time": 749,
-    "timeDay": 664,
-    "timeWeek": 650,
-    "timeMonth": 707,
+    "time": 748,
+    "timeDay": 696,
+    "timeWeek": 652,
+    "timeMonth": 704,
     "timeYear": 747,
     "dailyMinutesDown": {
-      "2022-04-26": 49,
+      "2022-04-26": 44,
       "2022-04-15": 83,
       "2022-03-31": 16,
       "2022-03-28": 48,
@@ -110,7 +110,7 @@
       "2021-10-26": 87,
       "2021-10-25": 78,
       "2021-10-23": 11,
-      "2021-10-22": 44
+      "2021-10-22": 60
     }
   },
   {
@@ -120,17 +120,16 @@
     "slug": "php-my-faq-demo",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.66%",
     "time": 749,
-    "timeDay": 698,
-    "timeWeek": 675,
+    "timeDay": 750,
+    "timeWeek": 657,
     "timeMonth": 690,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2022-04-26": 5,
       "2022-04-15": 83,
       "2022-03-28": 31,
       "2022-03-27": 56,
@@ -168,7 +167,7 @@
       "2021-10-22": 59,
       "2021-10-21": 89,
       "2021-10-20": 7,
-      "2021-10-19": 5
+      "2021-10-19": 15
     }
   },
   {
@@ -178,17 +177,16 @@
     "slug": "php-my-faq-password-hash-generator-tool",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.68%",
     "time": 738,
-    "timeDay": 633,
+    "timeDay": 707,
     "timeWeek": 626,
     "timeMonth": 684,
     "timeYear": 737,
     "dailyMinutesDown": {
-      "2022-04-26": 4,
       "2022-04-15": 81,
       "2022-03-30": 29,
       "2022-03-28": 30,
@@ -227,7 +225,7 @@
       "2021-10-22": 52,
       "2021-10-21": 127,
       "2021-10-20": 6,
-      "2021-10-19": 25
+      "2021-10-19": 31
     }
   }
 ]
