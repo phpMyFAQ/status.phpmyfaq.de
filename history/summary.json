@@ -6,9 +6,9 @@
     "slug": "php-my-faq-homepage",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "98.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "98.62%",
     "uptimeYear": "99.54%",
     "time": 901,
     "timeDay": 911,
@@ -16,7 +16,6 @@
     "timeMonth": 825,
     "timeYear": 896,
     "dailyMinutesDown": {
-      "2022-06-05": 5,
       "2022-05-31": 31,
       "2022-05-28": 37,
       "2022-05-24": 36,
@@ -63,7 +62,7 @@
       "2021-11-05": 50,
       "2021-10-29": 147,
       "2021-10-28": 6,
-      "2021-10-26": 58
+      "2021-10-26": 70
     }
   },
   {
@@ -73,17 +72,16 @@
     "slug": "php-my-faq-api",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "99.52%",
     "time": 744,
     "timeDay": 775,
     "timeWeek": 659,
     "timeMonth": 698,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2022-06-05": 4,
       "2022-05-31": 30,
       "2022-05-28": 36,
       "2022-05-24": 36,
@@ -131,7 +129,7 @@
       "2021-11-05": 50,
       "2021-10-29": 138,
       "2021-10-28": 36,
-      "2021-10-26": 28
+      "2021-10-26": 36
     }
   },
   {
@@ -139,10 +137,10 @@
     "url": "https://demo.phpmyfaq.de",
     "icon": "https://favicons.githubusercontent.com/demo.phpmyfaq.de",
     "slug": "php-my-faq-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.70%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "99.58%",
     "time": 743,
@@ -151,7 +149,7 @@
     "timeMonth": 743,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2022-06-05": 4,
+      "2022-06-05": 0,
       "2022-05-31": 29,
       "2022-05-28": 23,
       "2022-05-24": 35,
