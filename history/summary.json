@@ -4,18 +4,19 @@
     "url": "https://www.phpmyfaq.de",
     "icon": "https://favicons.githubusercontent.com/www.phpmyfaq.de",
     "slug": "php-my-faq-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.62%",
     "uptimeYear": "99.54%",
     "time": 901,
     "timeDay": 651,
-    "timeWeek": 758,
-    "timeMonth": 822,
+    "timeWeek": 734,
+    "timeMonth": 820,
     "timeYear": 895,
     "dailyMinutesDown": {
+      "2022-06-07": 1,
       "2022-05-31": 31,
       "2022-05-28": 37,
       "2022-05-24": 36,
@@ -62,7 +63,7 @@
       "2021-11-05": 50,
       "2021-10-29": 147,
       "2021-10-28": 6,
-      "2021-10-26": 70
+      "2021-10-26": 58
     }
   },
   {
@@ -73,13 +74,13 @@
     "status": "up",
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.60%",
     "uptimeYear": "99.52%",
     "time": 743,
     "timeDay": 546,
-    "timeWeek": 628,
-    "timeMonth": 695,
+    "timeWeek": 629,
+    "timeMonth": 692,
     "timeYear": 738,
     "dailyMinutesDown": {
       "2022-05-31": 30,
@@ -140,12 +141,12 @@
     "status": "up",
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.71%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "99.58%",
     "time": 743,
     "timeDay": 552,
-    "timeWeek": 640,
+    "timeWeek": 629,
     "timeMonth": 740,
     "timeYear": 739,
     "dailyMinutesDown": {
@@ -202,18 +203,19 @@
     "url": "https://password.phpmyfaq.de",
     "icon": "https://favicons.githubusercontent.com/password.phpmyfaq.de",
     "slug": "php-my-faq-password-hash-generator-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.71%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.74%",
     "uptimeYear": "99.61%",
     "time": 728,
     "timeDay": 543,
-    "timeWeek": 597,
+    "timeWeek": 605,
     "timeMonth": 639,
     "timeYear": 725,
     "dailyMinutesDown": {
+      "2022-06-07": 1,
       "2022-05-31": 29,
       "2022-05-28": 22,
       "2022-05-24": 35,
@@ -261,7 +263,7 @@
       "2021-10-26": 78,
       "2021-10-25": 68,
       "2021-10-23": 10,
-      "2021-10-22": 37
+      "2021-10-22": 33
     }
   }
 ]
