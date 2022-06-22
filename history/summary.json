@@ -6,17 +6,17 @@
     "slug": "php-my-faq-homepage",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.37%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "99.53%",
     "time": 901,
-    "timeDay": 771,
-    "timeWeek": 756,
+    "timeDay": 726,
+    "timeWeek": 744,
     "timeMonth": 880,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2022-06-21": 29,
+      "2022-06-21": 16,
       "2022-06-14": 20,
       "2022-06-12": 30,
       "2022-06-10": 57,
@@ -66,7 +66,7 @@
       "2021-11-08": 43,
       "2021-11-07": 18,
       "2021-11-05": 50,
-      "2021-10-29": 80
+      "2021-10-29": 106
     }
   },
   {
@@ -76,17 +76,16 @@
     "slug": "php-my-faq-api",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.51%",
     "time": 744,
-    "timeDay": 626,
-    "timeWeek": 610,
+    "timeDay": 598,
+    "timeWeek": 598,
     "timeMonth": 720,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2022-06-21": 13,
       "2022-06-14": 20,
       "2022-06-10": 57,
       "2022-06-09": 22,
@@ -137,7 +136,7 @@
       "2021-11-08": 43,
       "2021-11-07": 17,
       "2021-11-05": 50,
-      "2021-10-29": 98
+      "2021-10-29": 138
     }
   },
   {
@@ -147,17 +146,17 @@
     "slug": "php-my-faq-demo",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "96.44%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.39%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "99.56%",
     "time": 744,
-    "timeDay": 605,
-    "timeWeek": 595,
-    "timeMonth": 746,
+    "timeDay": 560,
+    "timeWeek": 584,
+    "timeMonth": 745,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2022-06-21": 51,
+      "2022-06-21": 39,
       "2022-06-20": 17,
       "2022-06-14": 19,
       "2022-06-10": 54,
@@ -207,7 +206,8 @@
       "2021-10-30": 19,
       "2021-10-29": 132,
       "2021-10-28": 36,
-      "2021-10-26": 83
+      "2021-10-26": 83,
+      "2021-10-25": 7
     }
   },
   {
@@ -221,9 +221,9 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.60%",
-    "time": 730,
-    "timeDay": 672,
-    "timeWeek": 644,
+    "time": 729,
+    "timeDay": 545,
+    "timeWeek": 643,
     "timeMonth": 687,
     "timeYear": 726,
     "dailyMinutesDown": {
