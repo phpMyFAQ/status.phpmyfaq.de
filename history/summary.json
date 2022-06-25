@@ -6,17 +6,16 @@
     "slug": "php-my-faq-homepage",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "99.53%",
     "time": 902,
-    "timeDay": 935,
-    "timeWeek": 784,
+    "timeDay": 758,
+    "timeWeek": 781,
     "timeMonth": 879,
     "timeYear": 898,
     "dailyMinutesDown": {
-      "2022-06-24": 5,
       "2022-06-22": 20,
       "2022-06-21": 16,
       "2022-06-14": 20,
@@ -68,7 +67,7 @@
       "2021-11-08": 43,
       "2021-11-07": 18,
       "2021-11-05": 50,
-      "2021-10-29": 75
+      "2021-10-29": 80
     }
   },
   {
@@ -77,18 +76,17 @@
     "icon": "https://favicons.githubusercontent.com/api.phpmyfaq.de",
     "slug": "php-my-faq-api",
     "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.49%",
+    "uptime": "99.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.52%",
     "time": 744,
-    "timeDay": 710,
-    "timeWeek": 640,
+    "timeDay": 579,
+    "timeWeek": 639,
     "timeMonth": 717,
     "timeYear": 739,
     "dailyMinutesDown": {
-      "2022-06-24": 5,
       "2022-06-22": 19,
       "2022-06-14": 20,
       "2022-06-10": 57,
@@ -140,7 +138,7 @@
       "2021-11-08": 43,
       "2021-11-07": 17,
       "2021-11-05": 50,
-      "2021-10-29": 73
+      "2021-10-29": 98
     }
   },
   {
@@ -155,10 +153,10 @@
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.56%",
     "time": 744,
-    "timeDay": 695,
+    "timeDay": 552,
     "timeWeek": 617,
-    "timeMonth": 748,
-    "timeYear": 740,
+    "timeMonth": 749,
+    "timeYear": 741,
     "dailyMinutesDown": {
       "2022-06-22": 19,
       "2022-06-21": 39,
@@ -226,9 +224,9 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.60%",
     "time": 729,
-    "timeDay": 692,
-    "timeWeek": 709,
-    "timeMonth": 688,
+    "timeDay": 539,
+    "timeWeek": 707,
+    "timeMonth": 689,
     "timeYear": 727,
     "dailyMinutesDown": {
       "2022-06-22": 18,
