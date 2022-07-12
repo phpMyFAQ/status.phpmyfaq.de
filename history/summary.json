@@ -4,18 +4,19 @@
     "url": "https://www.phpmyfaq.de",
     "icon": "https://favicons.githubusercontent.com/www.phpmyfaq.de",
     "slug": "php-my-faq-homepage",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.13%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "99.51%",
     "time": 893,
     "timeDay": 829,
     "timeWeek": 780,
-    "timeMonth": 863,
+    "timeMonth": 821,
     "timeYear": 894,
     "dailyMinutesDown": {
+      "2022-07-12": 0,
       "2022-07-11": 17,
       "2022-07-08": 16,
       "2022-07-07": 20,
@@ -72,8 +73,7 @@
       "2021-11-19": 20,
       "2021-11-18": 16,
       "2021-11-11": 73,
-      "2021-11-09": 41,
-      "2021-11-08": 43
+      "2021-11-09": 41
     }
   },
   {
@@ -81,18 +81,19 @@
     "url": "https://api.phpmyfaq.de/versions",
     "icon": "https://favicons.githubusercontent.com/api.phpmyfaq.de",
     "slug": "php-my-faq-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.46%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.45%",
     "uptimeMonth": "99.35%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 738,
     "timeDay": 689,
     "timeWeek": 638,
-    "timeMonth": 741,
+    "timeMonth": 710,
     "timeYear": 736,
     "dailyMinutesDown": {
+      "2022-07-12": 0,
       "2022-07-11": 16,
       "2022-07-07": 20,
       "2022-07-06": 19,
@@ -149,8 +150,7 @@
       "2021-11-11": 69,
       "2021-11-09": 39,
       "2021-11-08": 43,
-      "2021-11-07": 17,
-      "2021-11-05": 31
+      "2021-11-07": 17
     }
   },
   {
@@ -167,7 +167,7 @@
     "time": 737,
     "timeDay": 645,
     "timeWeek": 604,
-    "timeMonth": 695,
+    "timeMonth": 641,
     "timeYear": 732,
     "dailyMinutesDown": {
       "2022-07-11": 16,
@@ -243,7 +243,7 @@
     "time": 723,
     "timeDay": 612,
     "timeWeek": 607,
-    "timeMonth": 689,
+    "timeMonth": 625,
     "timeYear": 722,
     "dailyMinutesDown": {
       "2022-07-11": 15,
