@@ -14,7 +14,7 @@
     "timeDay": 918,
     "timeWeek": 836,
     "timeMonth": 899,
-    "timeYear": 870,
+    "timeYear": 871,
     "dailyMinutesDown": {
       "2022-10-11": 18,
       "2022-10-07": 87,
@@ -91,7 +91,7 @@
     "timeDay": 791,
     "timeWeek": 943,
     "timeMonth": 739,
-    "timeYear": 713,
+    "timeYear": 714,
     "dailyMinutesDown": {
       "2022-10-11": 17,
       "2022-10-07": 86,
@@ -157,18 +157,19 @@
     "url": "https://demo.phpmyfaq.de",
     "icon": "https://icons.duckduckgo.com/ip3/demo.phpmyfaq.de.ico",
     "slug": "php-my-faq-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "99.51%",
     "time": 718,
     "timeDay": 658,
     "timeWeek": 672,
     "timeMonth": 728,
-    "timeYear": 718,
+    "timeYear": 719,
     "dailyMinutesDown": {
+      "2022-10-12": 1,
       "2022-10-11": 17,
       "2022-10-07": 84,
       "2022-10-06": 41,
@@ -230,8 +231,7 @@
       "2021-12-13": 22,
       "2021-12-06": 20,
       "2021-11-23": 23,
-      "2021-11-18": 15,
-      "2021-11-11": 18
+      "2021-11-18": 15
     }
   },
   {
@@ -239,9 +239,9 @@
     "url": "https://password.phpmyfaq.de",
     "icon": "https://icons.duckduckgo.com/ip3/password.phpmyfaq.de.ico",
     "slug": "php-my-faq-password-hash-generator-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "98.88%",
+    "uptimeDay": "98.83%",
     "uptimeWeek": "98.62%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.51%",
@@ -249,8 +249,9 @@
     "timeDay": 728,
     "timeWeek": 667,
     "timeMonth": 638,
-    "timeYear": 700,
+    "timeYear": 701,
     "dailyMinutesDown": {
+      "2022-10-12": 1,
       "2022-10-11": 16,
       "2022-10-07": 83,
       "2022-10-06": 40,
@@ -316,7 +317,7 @@
       "2021-11-05": 48,
       "2021-11-02": 16,
       "2021-10-30": 18,
-      "2021-10-29": 38
+      "2021-10-29": 26
     }
   }
 ]
