@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.phpmyfaq.de.ico",
     "slug": "php-my-faq-homepage",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.41%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.51%",
     "time": 863,
-    "timeDay": 651,
+    "timeDay": 663,
     "timeWeek": 765,
     "timeMonth": 774,
-    "timeYear": 860,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2022-10-31": 18,
       "2022-10-24": 20,
@@ -83,18 +83,19 @@
     "url": "https://api.phpmyfaq.de/versions",
     "icon": "https://icons.duckduckgo.com/ip3/api.phpmyfaq.de.ico",
     "slug": "php-my-faq-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.52%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 710,
-    "timeDay": 555,
-    "timeWeek": 671,
-    "timeMonth": 736,
+    "timeDay": 543,
+    "timeWeek": 652,
+    "timeMonth": 733,
     "timeYear": 706,
     "dailyMinutesDown": {
+      "2022-11-05": 0,
       "2022-10-31": 18,
       "2022-10-24": 19,
       "2022-10-12": 30,
@@ -153,7 +154,7 @@
       "2022-03-12": 36,
       "2022-03-08": 80,
       "2022-03-05": 24,
-      "2022-03-04": 52
+      "2022-03-04": 4
     }
   },
   {
@@ -168,10 +169,10 @@
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.51%",
     "time": 712,
-    "timeDay": 542,
+    "timeDay": 554,
     "timeWeek": 641,
-    "timeMonth": 627,
-    "timeYear": 713,
+    "timeMonth": 624,
+    "timeYear": 712,
     "dailyMinutesDown": {
       "2022-10-31": 17,
       "2022-10-24": 19,
@@ -247,10 +248,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "99.51%",
+    "uptimeYear": "99.52%",
     "time": 689,
-    "timeDay": 565,
-    "timeWeek": 612,
+    "timeDay": 548,
+    "timeWeek": 608,
     "timeMonth": 617,
     "timeYear": 686,
     "dailyMinutesDown": {
@@ -318,8 +319,7 @@
       "2021-11-11": 37,
       "2021-11-09": 37,
       "2021-11-08": 42,
-      "2021-11-07": 16,
-      "2021-11-05": 48
+      "2021-11-07": 16
     }
   }
 ]
