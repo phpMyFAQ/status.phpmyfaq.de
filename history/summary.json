@@ -165,12 +165,12 @@
     "url": "https://demo.phpmyfaq.de",
     "icon": "https://icons.duckduckgo.com/ip3/demo.phpmyfaq.de.ico",
     "slug": "php-my-faq-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "97.51%",
+    "uptimeDay": "97.47%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 705,
     "timeDay": 554,
     "timeWeek": 570,
@@ -239,7 +239,7 @@
       "2022-03-03": 40,
       "2022-02-28": 36,
       "2022-02-25": 33,
-      "2022-02-23": 33
+      "2022-02-23": 16
     }
   },
   {
