@@ -4,9 +4,9 @@
     "url": "https://www.phpmyfaq.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.phpmyfaq.de.ico",
     "slug": "php-my-faq-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "97.46%",
+    "uptimeDay": "97.41%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.51%",
@@ -16,7 +16,7 @@
     "timeMonth": 854,
     "timeYear": 848,
     "dailyMinutesDown": {
-      "2023-01-25": 37,
+      "2023-01-25": 38,
       "2023-01-19": 15,
       "2023-01-14": 56,
       "2023-01-13": 38,
@@ -80,7 +80,7 @@
       "2022-03-31": 17,
       "2022-03-28": 50,
       "2022-03-27": 33,
-      "2022-03-25": 89
+      "2022-03-25": 70
     }
   },
   {
@@ -88,12 +88,12 @@
     "url": "https://api.phpmyfaq.de/versions",
     "icon": "https://icons.duckduckgo.com/ip3/api.phpmyfaq.de.ico",
     "slug": "php-my-faq-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "97.47%",
+    "uptimeDay": "97.45%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 713,
     "timeDay": 4735,
     "timeWeek": 1989,
@@ -159,7 +159,7 @@
       "2022-03-27": 59,
       "2022-03-25": 170,
       "2022-03-24": 83,
-      "2022-03-20": 39
+      "2022-03-20": 17
     }
   },
   {
