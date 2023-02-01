@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.phpmyfaq.de.ico",
     "slug": "php-my-faq-homepage",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.54%",
+    "uptime": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.51%",
     "time": 853,
-    "timeDay": 906,
-    "timeWeek": 1089,
+    "timeDay": 813,
+    "timeWeek": 1087,
     "timeMonth": 866,
     "timeYear": 849,
     "dailyMinutesDown": {
-      "2023-01-31": 15,
       "2023-01-27": 20,
       "2023-01-25": 37,
       "2023-01-19": 15,
@@ -82,7 +81,7 @@
       "2022-03-31": 17,
       "2022-03-28": 50,
       "2022-03-27": 33,
-      "2022-03-25": 27
+      "2022-03-25": 70
     }
   },
   {
@@ -92,17 +91,16 @@
     "slug": "php-my-faq-api",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.50%",
     "time": 715,
-    "timeDay": 733,
-    "timeWeek": 1574,
-    "timeMonth": 914,
+    "timeDay": 647,
+    "timeWeek": 1568,
+    "timeMonth": 912,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2023-01-31": 14,
       "2023-01-27": 20,
       "2023-01-25": 36,
       "2023-01-14": 56,
@@ -162,7 +160,8 @@
       "2022-03-28": 48,
       "2022-03-27": 59,
       "2022-03-25": 170,
-      "2022-03-24": 83
+      "2022-03-24": 83,
+      "2022-03-20": 17
     }
   },
   {
@@ -177,9 +176,9 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.49%",
     "time": 701,
-    "timeDay": 655,
-    "timeWeek": 665,
-    "timeMonth": 688,
+    "timeDay": 702,
+    "timeWeek": 663,
+    "timeMonth": 690,
     "timeYear": 705,
     "dailyMinutesDown": {
       "2023-01-25": 36,
@@ -259,9 +258,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.52%",
     "time": 683,
-    "timeDay": 649,
-    "timeWeek": 627,
-    "timeMonth": 633,
+    "timeDay": 696,
+    "timeWeek": 628,
+    "timeMonth": 634,
     "timeYear": 675,
     "dailyMinutesDown": {
       "2023-01-25": 56,
