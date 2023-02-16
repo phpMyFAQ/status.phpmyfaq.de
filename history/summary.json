@@ -6,17 +6,16 @@
     "slug": "php-my-faq-homepage",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.51%",
     "time": 856,
-    "timeDay": 830,
-    "timeWeek": 733,
+    "timeDay": 955,
+    "timeWeek": 779,
     "timeMonth": 951,
     "timeYear": 855,
     "dailyMinutesDown": {
-      "2023-02-15": 14,
       "2023-02-03": 47,
       "2023-02-02": 36,
       "2023-01-27": 20,
@@ -82,7 +81,7 @@
       "2022-04-26": 45,
       "2022-04-15": 85,
       "2022-03-31": 17,
-      "2022-03-28": 18
+      "2022-03-28": 50
     }
   },
   {
@@ -97,9 +96,9 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.51%",
     "time": 716,
-    "timeDay": 684,
-    "timeWeek": 587,
-    "timeMonth": 935,
+    "timeDay": 713,
+    "timeWeek": 624,
+    "timeMonth": 933,
     "timeYear": 716,
     "dailyMinutesDown": {
       "2023-02-03": 45,
@@ -178,8 +177,8 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.50%",
     "time": 701,
-    "timeDay": 676,
-    "timeWeek": 563,
+    "timeDay": 875,
+    "timeWeek": 611,
     "timeMonth": 695,
     "timeYear": 707,
     "dailyMinutesDown": {
@@ -261,9 +260,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.51%",
     "time": 682,
-    "timeDay": 673,
-    "timeWeek": 603,
-    "timeMonth": 630,
+    "timeDay": 706,
+    "timeWeek": 627,
+    "timeMonth": 628,
     "timeYear": 672,
     "dailyMinutesDown": {
       "2023-02-03": 29,
