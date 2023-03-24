@@ -6,17 +6,16 @@
     "slug": "php-my-faq-homepage",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "97.63%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "99.38%",
     "time": 853,
-    "timeDay": 975,
-    "timeWeek": 804,
-    "timeMonth": 806,
+    "timeDay": 988,
+    "timeWeek": 822,
+    "timeMonth": 809,
     "timeYear": 852,
     "dailyMinutesDown": {
-      "2023-03-23": 12,
       "2023-03-19": 59,
       "2023-03-18": 2,
       "2023-03-15": 27,
@@ -86,7 +85,7 @@
       "2022-05-12": 17,
       "2022-05-10": 109,
       "2022-05-09": 37,
-      "2022-05-08": 21
+      "2022-05-08": 50
     }
   },
   {
@@ -95,18 +94,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.phpmyfaq.de.ico",
     "slug": "php-my-faq-api",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "97.13%",
+    "uptime": "99.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "97.16%",
     "uptimeYear": "99.34%",
     "time": 708,
-    "timeDay": 763,
-    "timeWeek": 655,
-    "timeMonth": 651,
+    "timeDay": 776,
+    "timeWeek": 672,
+    "timeMonth": 652,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2023-03-23": 12,
       "2023-03-19": 59,
       "2023-03-18": 2,
       "2023-03-14": 23,
@@ -171,7 +169,8 @@
       "2022-05-09": 37,
       "2022-05-08": 152,
       "2022-05-05": 47,
-      "2022-04-26": 44
+      "2022-04-26": 44,
+      "2022-04-15": 17
     }
   },
   {
@@ -186,9 +185,9 @@
     "uptimeMonth": "97.25%",
     "uptimeYear": "99.33%",
     "time": 707,
-    "timeDay": 669,
-    "timeWeek": 624,
-    "timeMonth": 695,
+    "timeDay": 852,
+    "timeWeek": 644,
+    "timeMonth": 697,
     "timeYear": 691,
     "dailyMinutesDown": {
       "2023-03-19": 59,
@@ -253,8 +252,7 @@
       "2022-04-15": 83,
       "2022-03-28": 31,
       "2022-03-27": 56,
-      "2022-03-25": 168,
-      "2022-03-24": 52
+      "2022-03-25": 168
     }
   },
   {
@@ -269,8 +267,8 @@
     "uptimeMonth": "97.31%",
     "uptimeYear": "99.37%",
     "time": 671,
-    "timeDay": 761,
-    "timeWeek": 657,
+    "timeDay": 770,
+    "timeWeek": 666,
     "timeMonth": 665,
     "timeYear": 658,
     "dailyMinutesDown": {
@@ -332,8 +330,7 @@
       "2022-03-30": 29,
       "2022-03-28": 30,
       "2022-03-27": 16,
-      "2022-03-25": 157,
-      "2022-03-24": 35
+      "2022-03-25": 157
     }
   }
 ]
