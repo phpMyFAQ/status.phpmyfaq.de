@@ -6,17 +6,16 @@
     "slug": "php-my-faq-homepage",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.40%",
     "time": 855,
-    "timeDay": 849,
+    "timeDay": 857,
     "timeWeek": 1210,
     "timeMonth": 886,
     "timeYear": 845,
     "dailyMinutesDown": {
-      "2023-04-25": 5,
       "2023-04-24": 17,
       "2023-04-21": 51,
       "2023-04-07": 18,
@@ -86,7 +85,7 @@
       "2022-05-19": 17,
       "2022-05-18": 17,
       "2022-05-14": 44,
-      "2022-05-13": 34
+      "2022-05-13": 65
     }
   },
   {
@@ -96,9 +95,9 @@
     "slug": "php-my-faq-api",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.35%",
     "time": 708,
     "timeDay": 607,
@@ -106,7 +105,6 @@
     "timeMonth": 710,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2023-04-25": 5,
       "2023-04-23": 19,
       "2023-04-21": 21,
       "2023-04-07": 17,
@@ -173,7 +171,7 @@
       "2022-05-11": 20,
       "2022-05-10": 107,
       "2022-05-09": 37,
-      "2022-05-08": 49
+      "2022-05-08": 78
     }
   },
   {
@@ -181,19 +179,19 @@
     "url": "https://demo.phpmyfaq.de",
     "icon": "https://icons.duckduckgo.com/ip3/demo.phpmyfaq.de.ico",
     "slug": "php-my-faq-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.38%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.39%",
     "time": 686,
     "timeDay": 506,
     "timeWeek": 609,
     "timeMonth": 630,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2023-04-25": 4,
+      "2023-04-25": 0,
       "2023-04-23": 18,
       "2023-04-07": 17,
       "2023-03-28": 73,
