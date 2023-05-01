@@ -6,17 +6,16 @@
     "slug": "php-my-faq-homepage",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.40%",
     "time": 852,
     "timeDay": 737,
     "timeWeek": 790,
     "timeMonth": 863,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2023-04-30": 6,
       "2023-04-28": 61,
       "2023-04-27": 42,
       "2023-04-24": 17,
@@ -85,7 +84,8 @@
       "2022-05-31": 31,
       "2022-05-28": 37,
       "2022-05-24": 36,
-      "2022-05-19": 17
+      "2022-05-19": 17,
+      "2022-05-18": 17
     }
   },
   {
@@ -102,7 +102,7 @@
     "time": 704,
     "timeDay": 687,
     "timeWeek": 645,
-    "timeMonth": 700,
+    "timeMonth": 701,
     "timeYear": 703,
     "dailyMinutesDown": {
       "2023-04-28": 45,
@@ -188,7 +188,7 @@
     "time": 700,
     "timeDay": 527,
     "timeWeek": 617,
-    "timeMonth": 631,
+    "timeMonth": 630,
     "timeYear": 682,
     "dailyMinutesDown": {
       "2023-04-28": 43,
@@ -270,7 +270,7 @@
     "time": 655,
     "timeDay": 505,
     "timeWeek": 629,
-    "timeMonth": 627,
+    "timeMonth": 625,
     "timeYear": 651,
     "dailyMinutesDown": {
       "2023-04-28": 28,
