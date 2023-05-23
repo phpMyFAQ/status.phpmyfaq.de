@@ -6,17 +6,17 @@
     "slug": "php-my-faq-homepage",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "97.93%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "98.16%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "98.18%",
     "uptimeYear": "99.40%",
     "time": 837,
     "timeDay": 782,
-    "timeWeek": 728,
+    "timeWeek": 711,
     "timeMonth": 807,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2023-05-23": 30,
+      "2023-05-23": 19,
       "2023-05-16": 62,
       "2023-05-15": 38,
       "2023-05-11": 139,
@@ -71,7 +71,8 @@
       "2022-08-13": 38,
       "2022-08-01": 19,
       "2022-07-25": 19,
-      "2022-07-13": 38
+      "2022-07-13": 38,
+      "2022-07-12": 21
     }
   },
   {
@@ -81,17 +82,16 @@
     "slug": "php-my-faq-api",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "98.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.43%",
     "uptimeYear": "99.36%",
     "time": 703,
     "timeDay": 601,
-    "timeWeek": 597,
+    "timeWeek": 587,
     "timeMonth": 691,
     "timeYear": 701,
     "dailyMinutesDown": {
-      "2023-05-23": 10,
       "2023-05-16": 75,
       "2023-05-15": 36,
       "2023-05-11": 135,
@@ -147,7 +147,8 @@
       "2022-07-07": 20,
       "2022-07-06": 19,
       "2022-07-04": 75,
-      "2022-07-03": 35
+      "2022-07-03": 35,
+      "2022-07-01": 40
     }
   },
   {
@@ -155,9 +156,9 @@
     "url": "https://demo.phpmyfaq.de",
     "icon": "https://icons.duckduckgo.com/ip3/demo.phpmyfaq.de.ico",
     "slug": "php-my-faq-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.65%",
     "uptimeYear": "99.38%",
@@ -167,6 +168,7 @@
     "timeMonth": 712,
     "timeYear": 687,
     "dailyMinutesDown": {
+      "2023-05-23": 0,
       "2023-05-16": 45,
       "2023-05-15": 36,
       "2023-05-11": 119,
