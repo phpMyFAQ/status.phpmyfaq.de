@@ -6,9 +6,9 @@
     "slug": "php-my-faq-homepage",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "98.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "98.22%",
     "uptimeYear": "99.40%",
     "time": 839,
     "timeDay": 1292,
@@ -16,7 +16,6 @@
     "timeMonth": 820,
     "timeYear": 838,
     "dailyMinutesDown": {
-      "2023-05-24": 5,
       "2023-05-23": 19,
       "2023-05-16": 62,
       "2023-05-15": 38,
@@ -72,7 +71,8 @@
       "2022-08-13": 38,
       "2022-08-01": 19,
       "2022-07-25": 19,
-      "2022-07-13": 38
+      "2022-07-13": 38,
+      "2022-07-12": 21
     }
   },
   {
@@ -87,7 +87,7 @@
     "uptimeMonth": "98.43%",
     "uptimeYear": "99.36%",
     "time": 702,
-    "timeDay": 527,
+    "timeDay": 520,
     "timeWeek": 575,
     "timeMonth": 688,
     "timeYear": 701,
@@ -235,10 +235,10 @@
     "url": "https://password.phpmyfaq.de",
     "icon": "https://icons.duckduckgo.com/ip3/password.phpmyfaq.de.ico",
     "slug": "php-my-faq-password-hash-generator-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.70%",
     "uptimeYear": "99.41%",
     "time": 682,
@@ -247,6 +247,7 @@
     "timeMonth": 803,
     "timeYear": 684,
     "dailyMinutesDown": {
+      "2023-05-24": 1,
       "2023-05-16": 44,
       "2023-05-15": 34,
       "2023-05-11": 116,
