@@ -8,13 +8,13 @@
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "98.22%",
+    "uptimeMonth": "98.46%",
     "uptimeYear": "99.40%",
     "time": 839,
-    "timeDay": 748,
-    "timeWeek": 945,
-    "timeMonth": 816,
-    "timeYear": 838,
+    "timeDay": 1016,
+    "timeWeek": 990,
+    "timeMonth": 826,
+    "timeYear": 839,
     "dailyMinutesDown": {
       "2023-05-23": 19,
       "2023-05-16": 62,
@@ -84,13 +84,13 @@
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.43%",
+    "uptimeMonth": "98.62%",
     "uptimeYear": "99.36%",
-    "time": 702,
-    "timeDay": 703,
-    "timeWeek": 630,
-    "timeMonth": 690,
-    "timeYear": 701,
+    "time": 703,
+    "timeDay": 847,
+    "timeWeek": 653,
+    "timeMonth": 699,
+    "timeYear": 702,
     "dailyMinutesDown": {
       "2023-05-16": 75,
       "2023-05-15": 36,
@@ -160,13 +160,13 @@
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "99.38%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "99.39%",
     "time": 690,
-    "timeDay": 589,
-    "timeWeek": 636,
-    "timeMonth": 712,
-    "timeYear": 687,
+    "timeDay": 836,
+    "timeWeek": 656,
+    "timeMonth": 724,
+    "timeYear": 685,
     "dailyMinutesDown": {
       "2023-05-16": 45,
       "2023-05-15": 36,
@@ -226,8 +226,7 @@
       "2022-06-10": 54,
       "2022-06-09": 22,
       "2022-06-08": 15,
-      "2022-05-31": 29,
-      "2022-05-28": 23
+      "2022-05-31": 29
     }
   },
   {
@@ -239,13 +238,13 @@
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "99.41%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "99.42%",
     "time": 682,
-    "timeDay": 690,
-    "timeWeek": 620,
-    "timeMonth": 796,
-    "timeYear": 685,
+    "timeDay": 843,
+    "timeWeek": 651,
+    "timeMonth": 826,
+    "timeYear": 686,
     "dailyMinutesDown": {
       "2023-05-16": 44,
       "2023-05-15": 34,
@@ -300,8 +299,7 @@
       "2022-06-15": 25,
       "2022-06-10": 54,
       "2022-06-07": 16,
-      "2022-05-31": 29,
-      "2022-05-28": 22
+      "2022-05-31": 29
     }
   }
 ]
