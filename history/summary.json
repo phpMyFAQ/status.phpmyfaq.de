@@ -4,10 +4,10 @@
     "url": "https://www.phpmyfaq.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.phpmyfaq.de.ico",
     "slug": "php-my-faq-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.40%",
     "time": 833,
@@ -16,7 +16,7 @@
     "timeMonth": 774,
     "timeYear": 832,
     "dailyMinutesDown": {
-      "2023-07-02": 18,
+      "2023-07-02": 19,
       "2023-06-19": 17,
       "2023-06-02": 15,
       "2023-05-23": 19,
@@ -72,8 +72,7 @@
       "2022-08-31": 53,
       "2022-08-18": 18,
       "2022-08-13": 38,
-      "2022-08-01": 19,
-      "2022-07-25": 19
+      "2022-08-01": 19
     }
   },
   {
@@ -81,19 +80,19 @@
     "url": "https://api.phpmyfaq.de/versions",
     "icon": "https://icons.duckduckgo.com/ip3/api.phpmyfaq.de.ico",
     "slug": "php-my-faq-api",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "96.96%",
-    "uptimeWeek": "99.57%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "96.90%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.36%",
+    "uptimeYear": "99.37%",
     "time": 698,
     "timeDay": 664,
     "timeWeek": 625,
     "timeMonth": 634,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2023-07-02": 44,
+      "2023-07-02": 45,
       "2023-05-16": 75,
       "2023-05-15": 36,
       "2023-05-11": 135,
@@ -148,7 +147,7 @@
       "2022-07-11": 16,
       "2022-07-07": 20,
       "2022-07-06": 19,
-      "2022-07-04": 75
+      "2022-07-04": 56
     }
   },
   {
@@ -156,10 +155,10 @@
     "url": "https://demo.phpmyfaq.de",
     "icon": "https://icons.duckduckgo.com/ip3/demo.phpmyfaq.de.ico",
     "slug": "php-my-faq-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.42%",
     "time": 686,
