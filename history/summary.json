@@ -6,14 +6,14 @@
     "slug": "php-my-faq-homepage",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "97.46%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.40%",
     "time": 833,
-    "timeDay": 930,
-    "timeWeek": 846,
-    "timeMonth": 780,
+    "timeDay": 1002,
+    "timeWeek": 870,
+    "timeMonth": 787,
     "timeYear": 832,
     "dailyMinutesDown": {
       "2023-07-02": 36,
@@ -82,14 +82,14 @@
     "slug": "php-my-faq-api",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "95.73%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.36%",
-    "time": 697,
-    "timeDay": 653,
-    "timeWeek": 645,
-    "timeMonth": 635,
+    "time": 698,
+    "timeDay": 838,
+    "timeWeek": 662,
+    "timeMonth": 641,
     "timeYear": 693,
     "dailyMinutesDown": {
       "2023-07-02": 62,
@@ -146,8 +146,7 @@
       "2022-07-12": 46,
       "2022-07-11": 16,
       "2022-07-07": 20,
-      "2022-07-06": 19,
-      "2022-07-04": 56
+      "2022-07-06": 19
     }
   },
   {
@@ -157,14 +156,14 @@
     "slug": "php-my-faq-demo",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "97.60%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 683,
-    "timeDay": 637,
-    "timeWeek": 624,
-    "timeMonth": 671,
+    "timeDay": 744,
+    "timeWeek": 637,
+    "timeMonth": 675,
     "timeYear": 682,
     "dailyMinutesDown": {
       "2023-07-02": 34,
@@ -216,8 +215,7 @@
       "2022-07-12": 20,
       "2022-07-11": 16,
       "2022-07-07": 19,
-      "2022-07-06": 18,
-      "2022-07-04": 74
+      "2022-07-06": 18
     }
   },
   {
@@ -227,14 +225,14 @@
     "slug": "php-my-faq-password-hash-generator-tool",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "97.78%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 682,
-    "timeDay": 979,
-    "timeWeek": 839,
-    "timeMonth": 675,
+    "timeDay": 741,
+    "timeWeek": 843,
+    "timeMonth": 681,
     "timeYear": 684,
     "dailyMinutesDown": {
       "2023-07-02": 32,
@@ -283,8 +281,7 @@
       "2022-07-12": 20,
       "2022-07-11": 15,
       "2022-07-07": 19,
-      "2022-07-06": 18,
-      "2022-07-04": 73
+      "2022-07-06": 18
     }
   }
 ]
