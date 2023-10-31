@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.28%",
     "uptimeYear": "99.41%",
-    "time": 840,
-    "timeDay": 667,
-    "timeWeek": 990,
+    "time": 841,
+    "timeDay": 864,
+    "timeWeek": 740,
     "timeMonth": 808,
     "timeYear": 840,
     "dailyMinutesDown": {
@@ -82,14 +82,14 @@
     "status": "up",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.42%",
     "time": 702,
-    "timeDay": 560,
-    "timeWeek": 623,
-    "timeMonth": 711,
-    "timeYear": 703,
+    "timeDay": 839,
+    "timeWeek": 635,
+    "timeMonth": 712,
+    "timeYear": 704,
     "dailyMinutesDown": {
       "2023-10-23": 26,
       "2023-10-20": 18,
@@ -141,8 +141,7 @@
       "2022-12-24": 34,
       "2022-12-23": 92,
       "2022-12-21": 28,
-      "2022-11-09": 40,
-      "2022-10-31": 18
+      "2022-11-09": 40
     }
   },
   {
@@ -153,14 +152,14 @@
     "status": "up",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.48%",
     "time": 679,
-    "timeDay": 553,
-    "timeWeek": 601,
-    "timeMonth": 691,
-    "timeYear": 678,
+    "timeDay": 810,
+    "timeWeek": 619,
+    "timeMonth": 692,
+    "timeYear": 679,
     "dailyMinutesDown": {
       "2023-10-23": 32,
       "2023-10-20": 18,
@@ -207,8 +206,7 @@
       "2023-01-12": 19,
       "2022-12-27": 20,
       "2022-12-24": 34,
-      "2022-12-23": 75,
-      "2022-10-31": 17
+      "2022-12-23": 75
     }
   },
   {
@@ -219,12 +217,12 @@
     "status": "up",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.52%",
     "time": 679,
-    "timeDay": 460,
-    "timeWeek": 957,
+    "timeDay": 683,
+    "timeWeek": 1059,
     "timeMonth": 663,
     "timeYear": 684,
     "dailyMinutesDown": {
@@ -269,8 +267,7 @@
       "2022-12-24": 34,
       "2022-12-23": 74,
       "2022-11-23": 21,
-      "2022-11-09": 24,
-      "2022-10-31": 17
+      "2022-11-09": 24
     }
   }
 ]
