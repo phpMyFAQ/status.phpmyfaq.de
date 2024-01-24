@@ -1,7 +1,7 @@
 url: https://api.phpmyfaq.de/versions
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-24T17:27:58.061Z
+status: up
+code: 200
+responseTime: 507
+lastUpdated: 2024-01-24T17:33:10.643Z
 startTime: 2020-11-29T09:39:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
