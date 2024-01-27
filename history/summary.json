@@ -11,9 +11,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.44%",
     "time": 837,
-    "timeDay": 658,
-    "timeWeek": 722,
-    "timeMonth": 804,
+    "timeDay": 630,
+    "timeWeek": 717,
+    "timeMonth": 808,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2024-01-23": 16,
@@ -70,8 +70,7 @@
       "2023-03-03": 48,
       "2023-03-01": 20,
       "2023-02-03": 47,
-      "2023-02-02": 36,
-      "2023-01-27": 20
+      "2023-02-02": 36
     }
   },
   {
@@ -81,17 +80,16 @@
     "slug": "php-my-faq-api",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.47%",
     "time": 706,
-    "timeDay": 571,
-    "timeWeek": 570,
-    "timeMonth": 650,
+    "timeDay": 546,
+    "timeWeek": 564,
+    "timeMonth": 652,
     "timeYear": 698,
     "dailyMinutesDown": {
-      "2024-01-26": 5,
       "2024-01-23": 16,
       "2023-12-27": 20,
       "2023-12-04": 18,
@@ -138,8 +136,7 @@
       "2023-03-03": 47,
       "2023-03-01": 19,
       "2023-02-03": 45,
-      "2023-02-02": 34,
-      "2023-01-27": 20
+      "2023-02-02": 34
     }
   },
   {
@@ -154,9 +151,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.53%",
     "time": 679,
-    "timeDay": 549,
-    "timeWeek": 557,
-    "timeMonth": 633,
+    "timeDay": 513,
+    "timeWeek": 555,
+    "timeMonth": 637,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2024-01-23": 15,
@@ -215,9 +212,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.55%",
     "time": 677,
-    "timeDay": 447,
-    "timeWeek": 552,
-    "timeMonth": 612,
+    "timeDay": 526,
+    "timeWeek": 555,
+    "timeMonth": 614,
     "timeYear": 677,
     "dailyMinutesDown": {
       "2023-12-27": 19,
