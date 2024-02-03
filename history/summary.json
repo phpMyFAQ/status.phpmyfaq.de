@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 838,
-    "timeDay": 791,
-    "timeWeek": 818,
-    "timeMonth": 815,
+    "timeDay": 738,
+    "timeWeek": 824,
+    "timeMonth": 822,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2024-01-23": 16,
@@ -68,8 +68,7 @@
       "2023-03-07": 18,
       "2023-03-04": 62,
       "2023-03-03": 48,
-      "2023-03-01": 20,
-      "2023-02-03": 47
+      "2023-03-01": 20
     }
   },
   {
@@ -82,11 +81,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.47%",
+    "uptimeYear": "99.48%",
     "time": 707,
-    "timeDay": 637,
-    "timeWeek": 664,
-    "timeMonth": 653,
+    "timeDay": 623,
+    "timeWeek": 675,
+    "timeMonth": 655,
     "timeYear": 697,
     "dailyMinutesDown": {
       "2024-01-23": 16,
@@ -133,8 +132,7 @@
       "2023-03-07": 18,
       "2023-03-04": 63,
       "2023-03-03": 47,
-      "2023-03-01": 19,
-      "2023-02-03": 45
+      "2023-03-01": 19
     }
   },
   {
@@ -148,10 +146,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.53%",
-    "time": 677,
-    "timeDay": 603,
-    "timeWeek": 646,
-    "timeMonth": 637,
+    "time": 680,
+    "timeDay": 610,
+    "timeWeek": 651,
+    "timeMonth": 638,
     "timeYear": 679,
     "dailyMinutesDown": {
       "2024-01-23": 15,
@@ -193,8 +191,7 @@
       "2023-03-11": 87,
       "2023-03-04": 63,
       "2023-03-03": 46,
-      "2023-03-01": 19,
-      "2023-02-03": 30
+      "2023-03-01": 19
     }
   },
   {
@@ -207,11 +204,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.55%",
+    "uptimeYear": "99.56%",
     "time": 672,
-    "timeDay": 622,
-    "timeWeek": 633,
-    "timeMonth": 612,
+    "timeDay": 490,
+    "timeWeek": 631,
+    "timeMonth": 608,
     "timeYear": 677,
     "dailyMinutesDown": {
       "2023-12-27": 19,
@@ -249,8 +246,7 @@
       "2023-03-11": 85,
       "2023-03-04": 62,
       "2023-03-03": 44,
-      "2023-03-01": 18,
-      "2023-02-03": 29
+      "2023-03-01": 18
     }
   }
 ]
