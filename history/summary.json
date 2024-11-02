@@ -6,9 +6,9 @@
     "slug": "php-my-faq-homepage",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.82%",
     "time": 822,
     "timeDay": 698,
@@ -16,7 +16,7 @@
     "timeMonth": 838,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2024-11-01": 23,
+      "2024-11-01": 16,
       "2024-10-28": 18,
       "2024-10-24": 16,
       "2024-10-19": 31,
@@ -63,9 +63,9 @@
     "slug": "php-my-faq-api",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.63%",
     "time": 734,
     "timeDay": 591,
@@ -73,7 +73,7 @@
     "timeMonth": 707,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2024-11-01": 21,
+      "2024-11-01": 15,
       "2024-10-28": 18,
       "2024-10-24": 32,
       "2024-10-08": 23,
@@ -117,9 +117,9 @@
     "slug": "php-my-faq-demo",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.83%",
     "time": 692,
     "timeDay": 565,
@@ -127,7 +127,6 @@
     "timeMonth": 775,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2024-11-01": 6,
       "2024-10-28": 17,
       "2024-10-24": 16,
       "2024-10-08": 22,
@@ -197,8 +196,7 @@
       "2024-03-16": 16,
       "2024-02-11": 15,
       "2023-12-27": 19,
-      "2023-12-04": 17,
-      "2023-11-03": 61
+      "2023-12-04": 17
     }
   }
 ]
