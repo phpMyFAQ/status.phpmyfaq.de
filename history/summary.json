@@ -96,18 +96,19 @@
     "url": "https://api.phpmyfaq.de/versions",
     "icon": "https://icons.duckduckgo.com/ip3/api.phpmyfaq.de.ico",
     "slug": "php-my-faq-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "96.96%",
-    "uptimeWeek": "97.65%",
+    "uptimeDay": "96.93%",
+    "uptimeWeek": "97.64%",
     "uptimeMonth": "98.33%",
-    "uptimeYear": "99.40%",
+    "uptimeYear": "99.41%",
     "time": 742,
     "timeDay": 643,
     "timeWeek": 717,
     "timeMonth": 715,
     "timeYear": 751,
     "dailyMinutesDown": {
+      "2025-06-06": 0,
       "2025-06-05": 44,
       "2025-06-04": 34,
       "2025-06-03": 65,
@@ -188,8 +189,7 @@
       "2024-07-06": 31,
       "2024-07-05": 16,
       "2024-07-03": 29,
-      "2024-07-02": 18,
-      "2024-06-15": 15
+      "2024-07-02": 18
     }
   },
   {
