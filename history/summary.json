@@ -4,18 +4,19 @@
     "url": "https://www.phpmyfaq.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.phpmyfaq.de.ico",
     "slug": "php-my-faq-homepage",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.45%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "98.43%",
     "uptimeMonth": "98.55%",
-    "uptimeYear": "99.60%",
+    "uptimeYear": "99.61%",
     "time": 845,
     "timeDay": 755,
     "timeWeek": 885,
     "timeMonth": 888,
     "timeYear": 845,
     "dailyMinutesDown": {
+      "2025-07-15": 2,
       "2025-07-13": 46,
       "2025-07-12": 17,
       "2025-07-11": 49,
@@ -80,8 +81,7 @@
       "2024-12-19": 18,
       "2024-12-16": 18,
       "2024-12-15": 16,
-      "2024-12-14": 34,
-      "2024-12-13": 22
+      "2024-12-14": 34
     }
   },
   {
@@ -89,10 +89,10 @@
     "url": "https://api.phpmyfaq.de/versions",
     "icon": "https://icons.duckduckgo.com/ip3/api.phpmyfaq.de.ico",
     "slug": "php-my-faq-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.64%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "98.63%",
     "uptimeMonth": "98.64%",
     "uptimeYear": "99.58%",
     "time": 747,
@@ -101,6 +101,7 @@
     "timeMonth": 718,
     "timeYear": 728,
     "dailyMinutesDown": {
+      "2025-07-15": 1,
       "2025-07-13": 45,
       "2025-07-11": 49,
       "2025-07-08": 44,
@@ -168,8 +169,7 @@
       "2024-12-09": 19,
       "2024-12-08": 20,
       "2024-12-01": 20,
-      "2024-11-25": 107,
-      "2024-11-24": 15
+      "2024-11-25": 107
     }
   },
   {
@@ -177,10 +177,10 @@
     "url": "https://demo.phpmyfaq.de",
     "icon": "https://icons.duckduckgo.com/ip3/demo.phpmyfaq.de.ico",
     "slug": "php-my-faq-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.67%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.66%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "99.59%",
     "time": 695,
@@ -189,6 +189,7 @@
     "timeMonth": 742,
     "timeYear": 703,
     "dailyMinutesDown": {
+      "2025-07-15": 1,
       "2025-07-13": 44,
       "2025-07-11": 47,
       "2025-07-08": 42,
@@ -258,8 +259,7 @@
       "2024-11-21": 37,
       "2024-11-20": 17,
       "2024-11-14": 16,
-      "2024-11-08": 15,
-      "2024-11-06": 16
+      "2024-11-08": 15
     }
   },
   {
