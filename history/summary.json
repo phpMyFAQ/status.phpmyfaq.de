@@ -4,18 +4,19 @@
     "url": "https://www.phpmyfaq.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.phpmyfaq.de.ico",
     "slug": "php-my-faq-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "98.80%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "98.79%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.57%",
     "time": 859,
-    "timeDay": 979,
+    "timeDay": 1012,
     "timeWeek": 915,
     "timeMonth": 872,
-    "timeYear": 862,
+    "timeYear": 861,
     "dailyMinutesDown": {
+      "2025-11-15": 2,
       "2025-11-14": 99,
       "2025-11-09": 21,
       "2025-08-17": 113,
@@ -73,7 +74,7 @@
       "2025-05-17": 16,
       "2025-05-16": 28,
       "2025-05-15": 29,
-      "2025-05-13": 38
+      "2025-05-13": 19
     }
   },
   {
@@ -81,18 +82,19 @@
     "url": "https://api.phpmyfaq.de/versions",
     "icon": "https://icons.duckduckgo.com/ip3/api.phpmyfaq.de.ico",
     "slug": "php-my-faq-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.57%",
     "time": 742,
-    "timeDay": 884,
+    "timeDay": 1039,
     "timeWeek": 806,
     "timeMonth": 884,
     "timeYear": 742,
     "dailyMinutesDown": {
+      "2025-11-15": 1,
       "2025-11-14": 99,
       "2025-11-09": 21,
       "2025-08-17": 112,
@@ -150,8 +152,7 @@
       "2025-05-12": 15,
       "2025-05-10": 16,
       "2025-05-08": 24,
-      "2025-05-06": 22,
-      "2025-04-25": 33
+      "2025-05-06": 22
     }
   },
   {
@@ -159,18 +160,19 @@
     "url": "https://demo.phpmyfaq.de",
     "icon": "https://icons.duckduckgo.com/ip3/demo.phpmyfaq.de.ico",
     "slug": "php-my-faq-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "49.22%",
-    "uptimeYear": "94.64%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "51.71%",
+    "uptimeYear": "94.65%",
     "time": 722,
-    "timeDay": 1507,
+    "timeDay": 1692,
     "timeWeek": 1269,
     "timeMonth": 966,
     "timeYear": 721,
     "dailyMinutesDown": {
+      "2025-11-15": 1,
       "2025-11-14": 99,
       "2025-11-09": 20,
       "2025-10-30": 635,
@@ -249,8 +251,7 @@
       "2025-04-22": 27,
       "2025-04-15": 16,
       "2025-04-09": 18,
-      "2025-03-20": 18,
-      "2025-03-19": 21
+      "2025-03-20": 18
     }
   },
   {
@@ -258,9 +259,9 @@
     "url": "https://password.phpmyfaq.de",
     "icon": "https://icons.duckduckgo.com/ip3/password.phpmyfaq.de.ico",
     "slug": "php-my-faq-password-hash-generator-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.60%",
@@ -270,6 +271,7 @@
     "timeMonth": 689,
     "timeYear": 692,
     "dailyMinutesDown": {
+      "2025-11-15": 0,
       "2025-11-09": 20,
       "2025-08-17": 111,
       "2025-08-16": 19,
@@ -333,8 +335,7 @@
       "2025-02-06": 15,
       "2025-01-20": 15,
       "2025-01-14": 19,
-      "2025-01-04": 29,
-      "2025-01-01": 21
+      "2025-01-04": 29
     }
   }
 ]
