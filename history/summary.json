@@ -4,11 +4,11 @@
     "url": "https://www.phpmyfaq.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.phpmyfaq.de.ico",
     "slug": "php-my-faq-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.70%",
     "time": 900,
     "timeDay": 942,
@@ -79,7 +79,8 @@
       "2026-09-06": 250,
       "2026-09-08": 226,
       "2026-09-12": 269,
-      "2026-10-22": 240
+      "2026-10-22": 240,
+      "2026-11-24": 3
     }
   },
   {
